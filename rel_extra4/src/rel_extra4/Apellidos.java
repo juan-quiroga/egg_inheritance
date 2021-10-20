@@ -1,0 +1,7 @@
+package rel_extra4;
+
+public enum Apellidos {
+    
+    QUIROGA, ZONANA, RIM, DAMIANI, PEPI, BERNABEI, CHAVES, PAZ, FRAU, GARCIAFUENZALIDA, DOSSANTOS, GIOVANETTI, BUZZACCHI;
+    
+}

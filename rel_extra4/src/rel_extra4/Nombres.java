@@ -1,0 +1,6 @@
+package rel_extra4;
+
+public enum Nombres {
+    JUAN, CLARA, DANIELA, ARIADNA, ORIANA, GUIDO, MATIAS, GABRIEL, NICOLAS, FRANCISCO, GIMENA, PILAR, FRANCO;
+    
+}
